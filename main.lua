@@ -1,5 +1,5 @@
 -- Title: DrawingShapes 
--- Name: John Ngudeng
+-- Name: John Ngundeng
 -- Course: ICS2O/3C
 -- I created a program that has a coloured background.
 -- I created different shapes to from a new picture.  
